@@ -53,9 +53,9 @@ h1, h2, h3, h4, h5, h6{
 
 .text{
 	padding: 2px 5px;
-	text-align: justify;
+	text-align: center;
 	font-family: 'Lato';
-	font-size: 14px;
+	font-size: 16px;
 	color: #000;
 
 }
@@ -63,8 +63,6 @@ h1, h2, h3, h4, h5, h6{
 .legend{
 	padding: 2px 5px;
 	text-align: center;
-	font-family: 'Lato';
-	font-size: 14px;
 	color: #000;
 
 }
